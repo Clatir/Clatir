@@ -1,5 +1,5 @@
 ### Hi 👋 I'm Szymon
-I am a 3nd year cyber security student. I have been practising my programming 
+I am a 3rd year cyber security student. I have been practising my programming 
 skills in C++ and Python during my lab classes. I also learnt the basics of 
 programming ST7 family microcontrollers in C. I am a member of the
 research club where I am learning about neural networks. I am currently in the 
