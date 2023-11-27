@@ -28,8 +28,8 @@ Find me on:
 
 
 </a>
-  <a href="https://www.cplusplus.com/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" height="80" style="vertical-align:top; margin:4px">>
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" height="80" style="vertical-align:top; margin:4px">
           
   </a>
 
