@@ -18,13 +18,27 @@ Find me on:
 <p align="center">
   <a href="https://www.python.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="Python" height="80" style="vertical-align:top; margin:4px">
+  
+  
   </a>
   <a href="https://www.cplusplus.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" height="80" style="vertical-align:top; margin:4px">
   </a>
+
+
+
+</a>
+  <a href="https://www.cplusplus.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" height="80" style="vertical-align:top; margin:4px">>
+          
+  </a>
+
+  
   <a href="https://www.java.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" height="80" style="vertical-align:top; margin:4px">
   </a>
+
+  
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" height="80" style="vertical-align:top; margin:4px">
   </a>
